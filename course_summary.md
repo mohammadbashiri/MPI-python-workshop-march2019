@@ -1,5 +1,4 @@
 # Course Summary
-# Block 1
 
 ## Day 1: Getting started and Basics of Python
 ### Goals
@@ -177,12 +176,19 @@ If you want more challenges, go for the following:
 - https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment
 - https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market
 
-## Day 4: Debugging, OOP, git (and GitHub)
+## Day 4: OOP, Debugging, Practical aspects (e.g., git (and GitHub, etc.)
 ### Goals
 1) Recap of Day 1, 2, and 3
-2) Learning how to debug (or explore) the code and the tools available for such purpose
-3) An introduction to Object-oriented programming. What are classes and objects
-4) An introduction to git and GitHub
+2) An introduction to Object-oriented programming. What are classes and objects
+3) Learning how to debug (or explore) the code and the tools available for such purpose
+4) Some practical aspects of programming and handling projects:
+  - git and GitHub
+  - How to navigate in file systems in Python (os and glob packages)
+  - How to import functions from different python scripts
+  - How to organize projects
+  - How to package and publish code on PyPI
+  - etc.
+
 
 - Start by a recap from previous days, and a warm up exercise which integrates and refreshes as many taught concepts as possible
 - A brief explanation (and discussion) about utility of a debugger
