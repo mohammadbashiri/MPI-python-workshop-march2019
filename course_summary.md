@@ -11,10 +11,10 @@
 6) Basics of Python: Python data types: int, float, string (a little bit of indexing)
 
 ### Content
-**Shell**: learn shell commands like `ls, cd, pwd, mkdir, cp, mv, rm, rm -r, touch, echo, cat` (and the associated commands on windows cmd)
-**Python**: download and install anaconda, run Python console in terminal/cmd (i,e., open, close, etc.)
-**IPython**: open console, getting help, advantage compared to python console.
-**Jupyter notebook**: open it, creat a notebook, write code in cells, write markdown in cells, execute and create cells, delete cells, restart the kernel, close the notebook, stop the notebook server.
+- learn shell commands like `ls, cd, pwd, mkdir, cp, mv, rm, rm -r, touch, echo, cat` (and the associated commands on windows cmd)
+- Download and install anaconda, run Python console in terminal/cmd (i,e., open, close, etc.)
+- Open console, getting help, advantage compared to python console.
+- Open it, create a notebook, write code in cells, write markdown in cells, execute and create cells, delete cells, restart the kernel, close the notebook, stop the notebook server.
 
 ### Resources
 - https://www.codecademy.com/learn/learn-the-command-line
@@ -32,12 +32,12 @@
 ## Day 2: (Cont.) Basics of python
 ### Goals
 1) Recap of Day 1: Console, Script, Jupyter notebook, (some of the) Python data types
-2) Contibuation with python variables and data types
-3) Introduction Collections/sequences (Tuples, Lists, Dictionaries). Talk about differences between each data type (simmarize in a table)
+2) Contribution with python variables and data types
+3) Introduction Collections/sequences (Tuples, Lists, Dictionaries). Talk about differences between each data type (summarize in a table)
 4) Indexing, slicing
 5) Loops
 6) Functions
-7) Booleans and flow control (if-else statements)
+7) Boolean and flow control (if-else statements)
 
 ### Content
 - python data types: `boolean, int float, string, list, dict, tuple`
