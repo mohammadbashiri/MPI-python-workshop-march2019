@@ -192,8 +192,12 @@ If you want more challenges, go for the following:
 
 ### Content
 - Start by a recap from previous days, and a warm up exercise which integrates and refreshes as many taught concepts as possible
+- And introduction to OOP (classes, objects, and inheritance)
 - A brief explanation (and discussion) about utility of a debugger
 - What are different tools available for debugging Python code, and how to use them
-- And introduction to OOP (classes, objects, and inheritance)
-- Introduction to GitHub. Everyone is to have a GitHub account during this session. Create Repos, Clone, Make changes, Push, Pull, create branch(es), Push, Merge, Pull, etc.
+- Covering some practical aspects of projects
+    - Introduction to GitHub. Everyone is to have a GitHub account during this session. Create Repos, Clone, Make changes, Push, Pull, create branch(es), Push, Merge, Pull, etc.
+    - Navigating through file system
+    - Importing classes and functions from other scripts
+    - packaging and publishing code on PyPI
 - We will finish by a fun project (something that involves a group discussion and planning, have most of the concepts within it and can be visualized) and we will practice collaboration, and peer programming for this project and at the end we have something nice which reminds us of this Workshop and will publish it on out GitHub accounts
