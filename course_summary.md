@@ -199,5 +199,5 @@ If you want more challenges, go for the following:
     - Introduction to GitHub. Everyone is to have a GitHub account during this session. Create Repos, Clone, Make changes, Push, Pull, create branch(es), Push, Merge, Pull, etc.
     - Navigating through file system
     - Importing classes and functions from other scripts
-    - packaging and publishing code on PyPI
+    - Packaging and publishing code on PyPI
 - We will finish by a fun project (something that involves a group discussion and planning, have most of the concepts within it and can be visualized) and we will practice collaboration, and peer programming for this project and at the end we have something nice which reminds us of this Workshop and will publish it on out GitHub accounts
