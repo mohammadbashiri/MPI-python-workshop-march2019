@@ -190,7 +190,7 @@ If you want more challenges, go for the following:
   - How to package and publish code on PyPI
   - etc.
 
-
+### Content
 - Start by a recap from previous days, and a warm up exercise which integrates and refreshes as many taught concepts as possible
 - A brief explanation (and discussion) about utility of a debugger
 - What are different tools available for debugging Python code, and how to use them
