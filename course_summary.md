@@ -105,20 +105,21 @@
 
 ## Day 3: Numpy and Matplotlib; Pandas (and Seaborn)
 ### Goals
-1) Slicing and Masking
-2) Combining arrays
-3) Saving data
-4) Customize the figure (e.g., color, style, size, etc.)
-5) Put several figures together (i.e., subplots)
-6) Save the figure (after this we'll have an exercise for image processing)
-7) Understand the positioning of Pandas in the data science pipeline and the convenience supplied by /labeled data structures/, /automatic missing data handling/, /column-oriented layouts/, /embodiment of relational algebra/ and /rich C-level implementation of a functional map/reduce like API/.
-8) Understand row and column-oriented access patterns, know the customary layout of observations x attributes for data science.
-9) Understand `pd.DataFrames` data structures and its properties as compared to known basic Python data structures.
-10) Be able to read textual tabular data from the file system and remote URLs.
-11) Practice access to data and metadata.
-12) Use grouping operations and allowable reductions on them ('split-apply-combine')
-13) Express composable map operations in Pandas with anonymous functions
-14) Appreciate the advantages of splitting (/normalizing/) observational statements to prevent duplication and how table joins allow to operate practically in this setting.
+1) Recap of Day 1 and 2
+2) Slicing and Masking
+3) Combining arrays
+4) Saving data
+5) Customize the figure (e.g., color, style, size, etc.)
+6) Put several figures together (i.e., subplots)
+7) Save the figure (after this we'll have an exercise for image processing)
+8) Understand the positioning of Pandas in the data science pipeline and the convenience supplied by /labeled data structures/, /automatic missing data handling/, /column-oriented layouts/, /embodiment of relational algebra/ and /rich C-level implementation of a functional map/reduce like API/.
+9) Understand row and column-oriented access patterns, know the customary layout of observations x attributes for data science.
+10) Understand `pd.DataFrames` data structures and its properties as compared to known basic Python data structures.
+11) Be able to read textual tabular data from the file system and remote URLs.
+12) Practice access to data and metadata.
+13) Use grouping operations and allowable reductions on them ('split-apply-combine')
+14) Express composable map operations in Pandas with anonymous functions
+15) Appreciate the advantages of splitting (/normalizing/) observational statements to prevent duplication and how table joins allow to operate practically in this setting.
 
 ### Content
 - Combining multiple arrays and splitting an array
