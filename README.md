@@ -32,8 +32,8 @@ Here is a list of topics we are going to cover duing this Workshop:
     - Packaging and publishing code on PyPI
 
 ## Date, Time, Venue
-**Data**: Monday () to Friday ()
-**Time**: 8:30 – 17:30 (Every day)
+**Data**: Monday () to Friday () <br>
+**Time**: 8:30 – 17:30 (Every day) <br>
 **Venue**: Room no. XYZ, Street XYZ, MPI for Biochemistry, Munich, Germany
 
 ## Contact
