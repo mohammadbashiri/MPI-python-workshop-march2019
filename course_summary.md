@@ -196,6 +196,7 @@ If you want more challenges, go for the following:
 - A brief explanation (and discussion) about utility of a debugger
 - What are different tools available for debugging Python code, and how to use them
 - Covering some practical aspects of projects
+    - Setting up virtual environments
     - Introduction to GitHub. Everyone is to have a GitHub account during this session. Create Repos, Clone, Make changes, Push, Pull, create branch(es), Push, Merge, Pull, etc.
     - Navigating through file system
     - Importing classes and functions from other scripts
