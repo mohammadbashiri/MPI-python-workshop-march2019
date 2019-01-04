@@ -7,8 +7,6 @@ Please bring your own laptop with:
 
 The Python standard library likely has everything you need, but we won't stop there. We'll make use of some of the more popular third-party libraries, which will also let us make use of the tool pip for grabbing libraries from the Python Package Index (PyPI).
 
-You will leave the class with working sample code that you developed that is (hopefully) helpful in your day-to-day job.
-
 ## Content
 Here is a list of topics we are going to cover duing this Workshop:
 - The basics of writing and running Python scripts
@@ -26,7 +24,6 @@ Here is a list of topics we are going to cover duing this Workshop:
 - Debugging
 - Practical aspects:
     - Setting up virtual environments
-    - Intro to Git and GitHub
     - Navigating through file system
     - Importing from other Python scripts
     - Packaging and publishing code on PyPI
