@@ -7,6 +7,7 @@ Please bring your own laptop with:
 
 The Python standard library likely has everything you need, but we won't stop there. We'll make use of some of the more popular third-party libraries, which will also let us make use of the tool pip for grabbing libraries from the Python Package Index (PyPI).
 
+
 ## Content
 Here is a list of topics we are going to cover duing this Workshop:
 - The basics of writing and running Python scripts
@@ -28,10 +29,22 @@ Here is a list of topics we are going to cover duing this Workshop:
     - Importing from other Python scripts
     - Packaging and publishing code on PyPI
 
+
 ## Date, Time, Venue
 **Data**: Monday () to Friday () <br>
 **Time**: 8:30 – 17:30 (Every day) <br>
 **Venue**: Room no. XYZ, Street XYZ, MPI for Biochemistry, Munich, Germany
+
+
+## Additional Learning Resources
+
+- Data Science Handbook (Jupyter Notebooks): https://github.com/jakevdp/PythonDataScienceHandbook
+- Python News Subreddit: https://www.reddit.com/r/python
+- Python Learning subreddit (good for asking hard-to-google questions when starting out): https://www.reddit.com/r/learnpython
+- Meetup (for open interest groups in copenhagen and abroad): www.meetup.com
+- PyData (for conferences and workshops for further learning): www.pydata.com
+- EuroScipy (scientific conference for python-using scientists): https://www.euroscipy.org/
+
 
 ## Contact
 For any inquiries/feedback about the material and the workshop, please do not hesitate to contact at: m.bashiri@tum.de
