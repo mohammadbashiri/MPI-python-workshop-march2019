@@ -2,7 +2,11 @@
 This workshop introduces the basic elements of Python programming language, as well as tools that are commonly used for data cleaning, analysis, visualization, and other applications. Participants will gain the knowledge needed to use Python in everyday tasks. This workshop is intended for scientists who are new to programming. No experience is required.
 
 Please bring your own laptop with:
-- the Anaconda distribution of Python 3.6 (www.anaconda.com/download/) installed.
+
+- the Anaconda distribution of Python installed.
+    - instructions for Windows (https://docs.anaconda.com/anaconda/install/windows/). **NOTE (only for Windows users):** Please make sure in step 8, under `Advanced Options`, you check the box `Add Anaconda to my PATH environment variable`.
+    - instructions for Linux (https://docs.anaconda.com/anaconda/install/linux/)
+    - instructions for macOS (https://docs.anaconda.com/anaconda/install/mac-os/)
 - one of the following text editors installed: Atom(https://atom.io/) or Sublime(https://www.sublimetext.com/3)
 
 The Python standard library likely has everything you need, but we won't stop there. We'll make use of some of the more popular third-party libraries, which will also let us make use of the tool pip for grabbing libraries from the Python Package Index (PyPI).
@@ -31,9 +35,9 @@ Here is a list of topics we are going to cover duing this Workshop:
 
 
 ## Date, Time, Venue
-**Data**: Monday () to Friday () <br>
+**Data**: Monday (11 March 2019) to Thursday (14 March 2019) <br>
 **Time**: 8:30 – 17:30 (Every day) <br>
-**Venue**: Room no. XYZ, Street XYZ, MPI for Biochemistry, Munich, Germany
+**Venue**: Room no. XYZ, Max Planck Institute of Biochemistry (Am Klopferspitz 18, 82152 Planegg), Munich, Germany
 
 
 ## Additional Learning Resources
