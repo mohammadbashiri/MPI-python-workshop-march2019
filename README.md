@@ -51,4 +51,4 @@ Here is a list of topics we are going to cover duing this Workshop:
 
 
 ## Contact
-For any inquiries/feedback about the material and the workshop, please do not hesitate to contact at: m.bashiri@tum.de
+For any inquiries/feedback about the material and the workshop, please do not hesitate to contact me at: m.bashiri@tum.de
