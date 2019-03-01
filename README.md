@@ -13,10 +13,10 @@ The Python standard library likely has everything you need, but we won't stop th
 
 
 ## Content
-Here is a list of topics we are going to cover duing this Workshop:
+Here is a list of topics we are going to cover during this workshop:
 - The basics of writing and running Python scripts
-- Intro to Jupyter Lab (Jupyter Notebook)
-- Variables and data structures
+- Intro to Jupyter Notebook and Jupyter Lab
+- Variables and data structure
 - Arithmetic operations
 - Loops
 - Functions
