@@ -1,4 +1,4 @@
-fixed acidity,volatile acidity,total sulfur dioxide,alcohol,quality,color
+fixed_acidity,volatile_acidity,total_sulfur_dioxide,alcohol,quality,color
 7.4,0.7,34.0,9.4,5,red
 7.8,0.88,67.0,9.8,5,red
 7.8,0.76,54.0,9.8,5,red
