@@ -36,8 +36,8 @@ Here is a list of topics we are going to cover during this workshop:
 
 ## Date, Time, Venue
 **Data**: Monday (11 March 2019) to Thursday (14 March 2019) <br>
-**Time**: 8:30 – 17:30 (Every day) <br>
-**Venue**: Room no. XYZ, Max Planck Institute of Biochemistry (Am Klopferspitz 18, 82152 Planegg), Munich, Germany
+**Time**: 09:00 – 18:00 (Every day) <br>
+**Venue**: Max Planck Institute of Biochemistry, Munich, Germany
 
 
 ## Additional Learning Resources
