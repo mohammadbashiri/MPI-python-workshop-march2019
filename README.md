@@ -17,7 +17,7 @@ The Python standard library likely has everything you need, but we won't stop th
 **Venue**: Max Planck Institute of Biochemistry, Munich, Germany
 
 ## Content
-Here is a list of topics we are going to cover during this workshop:
+Here is a list of topics we cover during this workshop:
 - Intro to Shell application, Python and IPython Console.
 - The basics of writing and running Python scripts
 - Intro to Jupyter Notebook and Jupyter Lab
