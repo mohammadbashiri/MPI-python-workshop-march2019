@@ -178,7 +178,7 @@ If you want more challenges, go for the following:
 - https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment
 - https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market
 
-## Day 4: OOP, Debugging, Practical aspects (e.g., git (and GitHub, etc.)
+## Day 4: Practical aspects (e.g., debugging, Git and GitHub, etc.)
 ### Goals
 1) Recap of Day 1, 2, and 3
 2) An introduction to Object-oriented programming. What are classes and objects
