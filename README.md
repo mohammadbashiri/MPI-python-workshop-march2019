@@ -26,10 +26,10 @@ Here is a list of topics we cover during this workshop:
 - Loops
 - Functions
 - Logical operations, and flow control (conditional statements)
-- Intro to Numpy (data inspection, transformation, and manipulation)
-- Intro to Matplotlib (visualization)
-- Intro to Pandas (data analysis)
-- Intro to Seaborn (statistical visualization
+- Intro to Numpy
+- Intro to Matplotlib
+- Intro to Pandas
+- Intro to Seaborn
 - Debugging
 - Git and GitHub
 
